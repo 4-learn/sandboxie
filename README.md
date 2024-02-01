@@ -3,3 +3,12 @@
 ## Language
 Python 3.x
 HTML / CSS / Javascript / jQuery
+
+xxxxx
+x
+x
+x
+x
+x
+
+
