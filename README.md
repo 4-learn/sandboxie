@@ -3,3 +3,7 @@
 ## Language:
 Python 3.x
 HTML / CSS / Javascript / jQuery
+
+My name is Cannon~!
+
+俊毓是最棒的老師!!
